@@ -1,0 +1,5 @@
+Use this Command to run the batch upload
+
+node upload-files.js "Path-to-files-directory" 
+
+( Example: C:/Users/Daniel/Desktop/Web3/ )
